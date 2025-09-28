@@ -24,12 +24,10 @@ Guess the hidden word by selecting letters. Each wrong guess adds a part to the 
 - **JavaScript (ES6)** – game logic  
 
 ## Project Structure  
-hangman-game/
-├── index.html # Main HTML file
-├── style.css # Stylesheet
-├── scripts/
-│ ├── script.js # Game logic
-│ └── word-list.js # Word list with hints
+- index.html # Main HTML file
+- style.css # Stylesheet
+- script.js # Game logic
+- word-list.js # Word list with hints
 
 ## How to Play  
 1. Start the game, a random word will be chosen.  
