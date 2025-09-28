@@ -13,10 +13,10 @@ Guess the hidden word by selecting letters. Each wrong guess adds a part to the 
 ## Screenshots  
 
 ### Game Start
-![Hangman Start](Start.png)
+![Hangman Start](Lost.png)
 
 ### Game Over
-![Hangman Lost](Lost.png)
+![Hangman Lost](Start.png)
 
 ## Tech Stack  
 - **HTML5** – structure  
